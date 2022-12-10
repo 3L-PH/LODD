@@ -1,0 +1,162 @@
+.main{
+  width: 1000px;
+  margin:  80px auto 0;
+}
+
+.main__left{
+  float: left;
+  padding-top: 40px;
+  box-sizing: border-box;
+  width: 480px;
+  height: 422px;
+  margin-left: 20px;
+  margin-bottom: 140px;
+}
+.main__right{
+  float: left;
+  width: 480px;
+  height: 422px;
+  margin-bottom: 140px;
+}
+
+.main__title{
+  font-size: 40px;
+  margin: 0 0 60px;
+}
+
+.main__desc{
+  color: #9E9DA2;
+  font-size: 15px;
+}
+
+.main__conn{
+  background: black;
+  color: white;
+  width: 170px;
+  height: 45px;
+  border-radius: 5px;
+  margin: 130px 0 0 80px;
+}
+
+.right__image{
+  background-image: url('../images/main__image.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 400px;
+  height: 422px;
+  text-indent: -9999px;
+  margin-left: 60px;
+}
+.how{
+  width: 1000px;
+  margin:  80px auto 0;
+}
+.HOW__title{
+  text-align: center;
+  font-size: 36px;
+}
+
+.HOW__span{
+  color: #75BF7A;
+}
+
+.HOW__desc{
+  color: #9E9DA2;
+  font-size: 15px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.HOW__left, .HOW__center, .HOW__right{
+  float: left;
+  width: 333px;
+  height: 400px;
+}
+
+.HOW__left{
+  padding-right: 22px;
+  box-sizing: border-box;
+}
+
+.left__top p:nth-child(2), .left__top p:nth-child(3), .left__bottom p:nth-child(2), .left__bottom p:nth-child(3){
+  text-align: right;
+}
+
+.left__top{
+  margin-bottom: 40px;
+}
+
+.HOW__center{
+  padding-left: 16px;
+  box-sizing: border-box;
+}
+
+.HOW__center > p{
+  background-image: url('../images/car.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 300px;
+  height: 300px;
+  text-indent: -9999px;
+}
+
+.HOW__right{
+  padding-left: 22px;
+  box-sizing: border-box;
+}
+
+.right__top{
+  margin-bottom: 40px;
+}
+
+.left__top p:last-child, .left__bottom p:last-child, .right__top p:last-child, .right__bottom p:last-child{
+  color: #9E9DA2;
+  font-size: 15px;
+}
+
+.left__top p:first-child{
+  background-image: url('../images/1.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 40px;
+  height: 40px;
+  text-indent: -9999px;
+  margin-left: 272px;
+}
+
+.left__bottom p:first-child{
+  background-image: url('../images/3.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 40px;
+  height: 40px;
+  text-indent: -9999px;
+  margin-left: 272px;
+}
+
+.right__top p:first-child{
+  background-image: url('../images/2.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 40px;
+  height: 40px;
+  text-indent: -9999px;
+}
+
+.right__bottom p:first-child{
+  background-image: url('../images/4.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 40px;
+  height: 40px;
+  text-indent: -9999px;
+}
+
+.main__main{
+  height: 600px;
+}
+
+.HOW{
+  height: 600px;
+}

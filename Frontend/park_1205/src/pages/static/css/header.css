@@ -1,0 +1,35 @@
+.header{
+  width: 1000px;
+  height: 76px;
+  margin: 20px auto 10px;
+}
+
+.gnb__logo{
+  background-image: url('../images/gnb__logo.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 240px;
+  height: 65px;
+  text-indent: -9999px;
+  float: left;
+}
+
+.gnb__list{
+  float: right;
+  margin-top: 15px;
+}
+
+.gnb__list li{
+  float: left;
+  margin-right: 35px;
+  line-height: 2.6;
+}
+
+.gnb__Help{
+  background-color: #75BF7A;
+  width: 150px;
+  height: 40px;
+  border-radius: 5px;
+  text-align: center;
+  color: white;
+}

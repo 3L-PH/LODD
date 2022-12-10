@@ -1,0 +1,15 @@
+.help__image{
+    background-image: url('../images/helpcenter.png');
+    text-align : center;
+    display : block;
+    margin-left: auto;
+    margin-right: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 700px;
+    height: 356px;
+    text-indent: -9999px;
+    margin-top : 100px;
+    margin-bottom : 300px;
+
+}

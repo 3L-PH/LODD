@@ -1,0 +1,14 @@
+.how__image{
+    background-image: url('../images/how_image.png');
+    text-align : center;
+    display : block;
+    margin-left: auto;
+    margin-right: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1087px;
+    height: 612px;
+    text-indent: -9999px;
+    margin-bottom : 50px;
+
+}

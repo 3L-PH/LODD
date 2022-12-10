@@ -1,0 +1,68 @@
+.footer{
+  width: 1000px;
+  height: 300px;
+  margin: auto;
+  line-height: 2.2;
+}
+.footer > div > div{
+  float: left;
+  width: 200px;
+}
+.footer > div > div p:last-child{
+  color: #9E9DA2;
+}
+
+.footer__logo{
+  background-image: url('../images/gnb__logo.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 180px;
+  height: 50px;
+  text-indent: -9999px;
+  margin-top: 40px;
+}
+
+.footer__text{
+  padding-left: 20px;
+  box-sizing: border-box;
+}
+
+
+.download{
+  background-image: url('../images/download.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 160px;
+  height: 40px;
+  text-indent: -9999px;
+  margin-left: 40px;
+  margin-top: 40px;
+  border-radius: 5px;
+}
+
+.download2{
+  background-image: url('../images/download2.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 160px;
+  height: 40px;
+  text-indent: -9999px;
+  margin-left: 40px;
+  margin-top: 40px;
+  border-radius: 5px;
+}
+
+.footer__footer{
+  border-top: 1px solid #ECECEC;
+  border-bottom: 1px solid #ECECEC;
+  height: 180px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+}
+
+.footer__end{
+  text-align: center;
+  color: #75BF7A;
+}

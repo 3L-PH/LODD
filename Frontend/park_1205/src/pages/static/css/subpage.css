@@ -1,0 +1,45 @@
+.subpage{
+  width: 1000px;
+  margin: auto;
+}
+
+.webcam{
+  width: 1000px;
+}
+
+.subpage__btn{
+  text-align: right;
+}
+
+.subpage__btn button{
+  margin: 20px 10px 0 0;
+}
+
+.subpage__setting{
+  background: black;
+  color: white;
+  width: 100px;
+  height: 45px;
+  border-radius: 5px;
+}
+.subpage__onoff{
+  background: black;
+  color: white;
+  width: 100px;
+  height: 45px;
+  border-radius: 5px;
+}
+
+.subpage__disc{
+  background: black;
+  color: white;
+  width: 170px;
+  height: 45px;
+  border-radius: 5px;
+  margin: auto;
+}
+
+.subpage__btn__disc{
+  width: 170px;
+  margin: 0 auto 120px;
+}
